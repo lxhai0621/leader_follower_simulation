@@ -1,0 +1,2 @@
+balance_car_control:car_model:muti_car_control
+-DCATKIN_DEVEL_PREFIX=/home/li/leader_follow_simulation/devel -DCMAKE_INSTALL_PREFIX=/home/li/leader_follow_simulation/install -G Unix Makefiles

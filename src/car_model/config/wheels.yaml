@@ -1,0 +1,4 @@
+type: "effort_controllers/JointGroupEffortController"
+joints: 
+  - base_to_leader_left_wheel
+  - base_to_leader_right_wheel

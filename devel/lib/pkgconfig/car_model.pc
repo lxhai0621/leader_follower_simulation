@@ -1,0 +1,8 @@
+prefix=/home/li/leader_follow_simulation/devel
+
+Name: car_model
+Description: Description of car_model
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

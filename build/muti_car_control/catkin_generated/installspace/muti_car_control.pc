@@ -1,0 +1,8 @@
+prefix=/home/li/leader_follow_simulation/install
+
+Name: muti_car_control
+Description: Description of muti_car_control
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs roscpp rospy sensor_msgs std_msgs tf
